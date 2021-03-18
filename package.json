@@ -2,6 +2,8 @@
   "name":"workshop",
   "version": "1.0.0",
   "author": "Leoantonios",
+  "repository": "github:leoantonios/workshop",
+  "homepage": "https://leoantonios.github.io/workshop",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
